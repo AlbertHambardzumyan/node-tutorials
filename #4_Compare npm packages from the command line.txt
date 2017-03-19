@@ -1,0 +1,18 @@
+#Compare npm packages from the command line
+
+There are over 350,000 packages on npm. There are more than a billion downloads per week. With so many new packages, it becomes difficult to select the right package for you projects.
+
+Express vs Connect vs Koa
+
+Tools like npmcompare.com (https://npmcompare.com/) and npms.io make choosing easier.
+
+Enter npm-compare. Compare npm packages right from your terminal. Powered by the npms.io api.
+
+Start using it right away by
+npm install --global npm-compare
+
+Although this shouldn’t be the only criteria for selecting a package. I hope this helps you make an informed decision.
+
+Have a great day :)
+
+PS: If you are interested, you can check out the `75-line code here` (https://gist.github.com/sanchitgn/197576a38433bef42ab82a6ec5934f26) or on my `GitHub repository` (https://github.com/sanchitgn/npm-compare).
