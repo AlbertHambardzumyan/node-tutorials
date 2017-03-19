@@ -1,0 +1,9 @@
+#Counter custom module
+
+"use strict";
+
+let count = 0;
+module.exports.count = function() {
+    console.log(count);
+    return count++;
+};
