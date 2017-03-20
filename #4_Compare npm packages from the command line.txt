@@ -16,3 +16,6 @@ Although this shouldn’t be the only criteria for selecting a package. I hope thi
 Have a great day :)
 
 PS: If you are interested, you can check out the `75-line code here` (https://gist.github.com/sanchitgn/197576a38433bef42ab82a6ec5934f26) or on my `GitHub repository` (https://github.com/sanchitgn/npm-compare).
+
+Reference: https://medium.com/@sanchitgn/compare-npm-packages-from-the-command-line-f123c3ac0af1#.o1r9yibeg
+By Sanchit Nevgi
